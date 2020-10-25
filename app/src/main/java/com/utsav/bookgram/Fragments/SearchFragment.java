@@ -98,6 +98,8 @@ public class SearchFragment extends Fragment {
 
 
         reeadPosts();
+        readUsers();
+        readTags();
 
 
         iv_search.setOnClickListener(new View.OnClickListener() {
@@ -127,8 +129,7 @@ public class SearchFragment extends Fragment {
                 recyclerView.setVisibility(View.VISIBLE);
                 recyclerViewTags.setVisibility(View.VISIBLE);
                 iv_search.setImageResource(R.drawable.back_arrow);
-                readUsers();
-                readTags();
+
             }
 
             @Override
