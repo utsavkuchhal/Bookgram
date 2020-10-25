@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577893737560",
+    "firebase_url": "https://bookgram-13809.firebaseio.com",
+    "project_id": "bookgram-13809",
+    "storage_bucket": "bookgram-13809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577893737560:android:c657ffabecde70358c162d",
+        "android_client_info": {
+          "package_name": "com.utsav.bookgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577893737560-sku7flb5ahcm577d5nag9hnfhqn9nbot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyygn4NDxANwpMhbsMegIEPvpChpH3YS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577893737560-sku7flb5ahcm577d5nag9hnfhqn9nbot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
